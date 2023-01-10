@@ -1,12 +1,11 @@
 <h1 align="center"> Blog-a-thon (CoCode x Hashnode) </h1>
 
-<!-- ![Banner](./Banner.jpeg) -->
-<img src ="https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png" alt="hashnode-cocode-poster" border="0">
+<img src ="https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png" alt="hashnode-cocode-poster" border="0" width="500px">
 
 ## About
-CoCode is collaborating with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
+CoCode has collaborated with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
 
-For January, write a blog, in either one or all of our four tracks namely, 
+For January, write a blog, in either or all of the following four tracks namely, 
 
 - Communities
 - Development
@@ -17,7 +16,7 @@ And stand a chance to win some cool Hashnode swags!
 
 #### To participate, wrtite a blog on [Hashnode](https://hashnode.com/) and add the tag `CoCodeBlogs` to your blog on Hashnode
 
-#### Do not forget to link your social profiles (Twitter, LinkedIn) to your hashnode so that you can be contact, if you win.
+#### Do not forget to link your social profiles (Twitter, LinkedIn) to your hashnode so that you can be contacted, if you win.
 
 ## FAQs
 
@@ -39,7 +38,7 @@ You can write a blog for all or either of them by adding the tag â€œCocodeBlogsâ
 - YES! In fact, the more you write, the better chance of you winning. You can also write on more than one of the tracks mentioned above. 
 
 #### What will this get me?
-- Cool swags and a chance to build your personal brand through technical blogging!
+- Cool Hashnode swags and a chance to build your personal brand through technical blogging!
 
 #### What are some of the best practices while writing a blog?
 - Give your blog an interesting title
@@ -54,6 +53,8 @@ You can write a blog for all or either of them by adding the tag â€œCocodeBlogsâ
 - Lastly, do not Plagiarize.
 
 #### Have any more questions?
-- Ask, any doubt, big or small, by joining our [discord](https://discord.gg/WP8BQvrzzc)
+- Ask, any doubt, big or small, by joining our [discord](https://discord.gg/WP8BQvrzzc). We will be more than happy to assist you!
 
+
+All the best! Keep writing!
 
