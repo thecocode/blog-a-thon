@@ -1,6 +1,7 @@
-<h1 align="center"> CoCode x Hashnode Blog-a-thon </h1>
+<h1 align="center"> Blog-a-thon (CoCode x Hashnode) </h1>
 
-![Banner](./Banner.jpeg)
+<!-- ![Banner](./Banner.jpeg) -->
+<img src ="https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png" alt="hashnode-cocode-poster" border="0">
 
 ## About
 CoCode is collaborating with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
