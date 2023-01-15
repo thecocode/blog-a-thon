@@ -1,4 +1,4 @@
-<h1 align="center"> Blog-a-thon (CoCode x Hashnode) </h1>
+<h1 align="center"> Blog-a-thon</h1>
 
 <img src ="https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png" alt="hashnode-cocode-poster" border="0" width="500px">
 
