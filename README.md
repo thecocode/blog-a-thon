@@ -10,11 +10,11 @@ For January, write a blog, in either or all of the following four tracks namely,
 - Communities
 - Development
 - Artificial Intelligence
-- Open source
+- Open Source
 
 And stand a chance to win some cool Hashnode swags!
 
-#### To participate, wrtite a blog on [Hashnode](https://hashnode.com/) and add the tag `CoCodeBlogs` to your blog on Hashnode
+#### To participate, write a blog on [Hashnode](https://hashnode.com/) and add the tag `CoCodeBlogs` to your blog on Hashnode
 
 #### Do not forget to link your social profiles (Twitter, LinkedIn) to your hashnode so that you can be contacted, if you win.
 
@@ -22,7 +22,7 @@ And stand a chance to win some cool Hashnode swags!
 
 #### What is it?
 - Blog-a-thon is a blogging challenge brought to you by CoCode in association with Hashnode, a free developer blogging platform. 
-We have 4 tracks for January namely- Communities, Development, Artificial Intelligence, Open source.
+We have 4 tracks for January namely- Communities, Development, Artificial Intelligence, Open Source.
 You can write a blog for all or either of them by adding the tag “CocodeBlogs”. At the end of the month, we will announce one winner for each track, therefore, 4 winners in total, who will be rewarded with Hashnode swags and shoutout from cocode’s socials.
 
 #### When does this end?
@@ -57,4 +57,3 @@ You can write a blog for all or either of them by adding the tag “CocodeBlogs�
 
 
 All the best! Keep writing!
-
