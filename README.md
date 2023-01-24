@@ -1,6 +1,8 @@
 <h1 align="center"> Blog-a-thon</h1>
 
+<div align="center">
 <img src ="https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png" alt="hashnode-cocode-poster" border="0" width="500px">
+</div>
 
 ## About
 CoCode has collaborated with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
