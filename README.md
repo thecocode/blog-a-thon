@@ -13,9 +13,9 @@ For January, write a blog, in either or all of the following four tracks namely,
 
 #### And stand a chance to win some cool Hashnode swags!
 
-
-![hashnode-cocode-poster](https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png)
-
+<div align="center">
+<img src="https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png" alt="hashnode cocode poster">
+</div>
 
 ## 🤔 How to Participate
 - **To participate, write a blog on Hashnode and add the tag CoCodeBlogs to your blog on Hashnode**
