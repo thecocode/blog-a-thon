@@ -59,7 +59,7 @@ For January, write a blog, in either or all of the following four tracks namely,
 - Write the name of the track you are writing for (optional but convenient for us)
 - For example, `This blog is written for the “Developement` track of CoCode Blogs.
 - Do not forget to add the tag `CocodeBlogs` to your blog for it to be considered a valid entry.
-- Lastly, do not `Plagiarize`.
+- Lastly, `do not plagiarize`.
 
 ### Have any more questions?
 
