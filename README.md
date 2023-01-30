@@ -18,15 +18,15 @@ For January, write a blog, in either or all of the following four tracks namely,
 </div>
 
 ## 🤔 How to Participate
-- **To participate, write a blog on Hashnode and add the tag CoCodeBlogs to your blog on Hashnode**
+- **To participate, write a blog on Hashnode and add the tag `CoCodeBlogs` to your blog on Hashnode**
 
-- **Do not forget to link your social profiles (Twitter, LinkedIn) to your hashnode so that you can be contacted, if you win.**
+- **Do not forget to link your social profiles (Twitter and/or LinkedIn) to your Hashnode profile so that you can be contacted if you win.**
 
 ## 🙋 FAQ
 
 ### What is it?
 
-- Blog-a-thon is a blogging challenge brought to you by **`CoCode`** in association with **`Hashnode`**, a free developer blogging platform. We have 4 tracks for January namely-  **`Communities`**, **`Development,`** **`Artificial Intelligence,`** **`Open Source.`** You can write a blog for all or either of them by adding the tag  **`CocodeBlogs.`** At the end of the month, we will announce one winner for each track, therefore, 4 winners in total, who will be rewarded with Hashnode swags and shoutout from cocode’s socials.
+- Blog-a-thon is a blogging challenge brought to you by **CoCode** in association with **Hashnode**, a free developer blogging platform. We have 4 tracks for January namely- `Communities`, `Development,` `Artificial Intelligence,` and `Open Source.` You can write a blog for all or either of them by adding the tag  **`CocodeBlogs.`** At the end of the month, we will announce one winner for each track, therefore, 4 winners in total, who will be rewarded with Hashnode swags and a shoutout from CoCode’s socials.
 
 ### When does this end?
 
@@ -34,7 +34,7 @@ For January, write a blog, in either or all of the following four tracks namely,
 
 ### How to participate?
 
-- All you have to do is write a blog on [**Hashnode**](https://hashnode.com/) and add the tag **`CocodeBlogs`** to it and publish it. If you do not add the said tag, your entry will not be considered.
+- All you have to do is write a blog on [**Hashnode**](https://hashnode.com/) and add the tag `CocodeBlogs` to it and publish it. If you do not add the said tag, your entry will not be considered.
 
 ### Are there any guidelines to choose the topic?
 
@@ -51,19 +51,19 @@ For January, write a blog, in either or all of the following four tracks namely,
 ### What are some of the best practices while writing a blog?
 
 - Give your blog an interesting title
-- Add a table of content table for ease of reading
+- Add a table of content for ease of reading
 - Explain the chosen topic well
-- Add media such as images wherever needed
-- Embed links for other blogs, youtube videos, wikipedia pages etc, wherever needed
+- Add media such as images and videos wherever needed
+- Embed links for other blogs, YouTube videos, wikipedia pages etc, wherever needed
 - Give a conclusion to your blog
 - Write the name of the track you are writing for (optional but convenient for us)
-- For example, **`This blog is written for the “Developement” track of CoCode Blogs`.**
-- Do not forget to add the tag **`CocodeBlogs`** to your blog for it to be considered a valid entry.
-- Lastly, do not **`Plagiarize.`**
+- For example, `This blog is written for the “Developement” track of CoCode Blogs`.
+- Do not forget to add the tag `CocodeBlogs` to your blog for it to be considered a valid entry.
+- Lastly, do not `Plagiarize`.
 
 ### Have any more questions?
 
-- Ask, any doubt, big or small, by joining our [**discord**](https://discord.gg/WP8BQvrzzc). We will be more than happy to assist you!
+- Ask, any doubt, big or small, on our [**Discord server**](https://discord.gg/WP8BQvrzzc). We will be more than happy to assist you!
 
 
 ## All the best! Keep writing!
