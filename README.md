@@ -4,17 +4,17 @@
 ## 😃 About
 CoCode has collaborated with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
 
-For January, write a blog, in either or all of the following four tracks namely, 
+For February, write a blog, in either or all of the following four tracks namely, 
 
-- **Communities**
-- **Development**
-- **Artificial Intelligence**
-- **Open Source**
+- **DevOps**
+- **Operating Systems**
+- **Design**
+- **Database**
 
 #### And stand a chance to win some cool Hashnode swags!
 
 <div align="center">
-<img src="https://i.ibb.co/jk6JQkX/hashnode-annoucement-poster.png" alt="hashnode cocode poster">
+<img src="https://user-images.githubusercontent.com/110938199/215875154-555eda38-aae4-4a4d-ba5c-efec44f10626.png" alt="hashnode cocode poster">
 </div>
 
 ## 🤔 How to Participate
@@ -26,11 +26,11 @@ For January, write a blog, in either or all of the following four tracks namely,
 
 ### What is it?
 
-- Blog-a-thon is a blogging challenge brought to you by **CoCode** in association with **Hashnode**, a free developer blogging platform. We have 4 tracks for January namely- `Communities`, `Development,` `Artificial Intelligence,` and `Open Source.` You can write a blog for all or either of them by adding the tag  **`CocodeBlogs.`** At the end of the month, we will announce one winner for each track, therefore, 4 winners in total, who will be rewarded with Hashnode swags and a shoutout from CoCode’s socials.
+- Blog-a-thon is a blogging challenge brought to you by **CoCode** in association with **Hashnode**, a free developer blogging platform. We have 4 tracks for February namely- `DevOps`, `Operating systems`, `Design`, and `Database`. You can write a blog for all or either of them by adding the tag  **`CocodeBlogs`**. At the end of the month, we will announce one winner for each track, therefore, 4 winners in total, who will be rewarded with Hashnode swags and a shoutout from CoCode’s socials.
 
 ### When does this end?
 
-- The challenge ends on Jan 31, 2023.
+- The challenge ends on Feb 28, 2023.
 
 ### How to participate?
 
@@ -57,7 +57,7 @@ For January, write a blog, in either or all of the following four tracks namely,
 - Embed links for other blogs, YouTube videos, wikipedia pages etc, wherever needed
 - Give a conclusion to your blog
 - Write the name of the track you are writing for (optional but convenient for us)
-- For example, `This blog is written for the “Developement` track of CoCode Blogs.
+- For example, `This blog is written for the “Developement"` track of CoCode Blogs.
 - Do not forget to add the tag `CocodeBlogs` to your blog for it to be considered a valid entry.
 - Lastly, `do not plagiarize`.
 
