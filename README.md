@@ -57,7 +57,7 @@ For February, write a blog, in either or all of the following four tracks namely
 - Embed links for other blogs, YouTube videos, wikipedia pages etc, wherever needed
 - Give a conclusion to your blog
 - Write the name of the track you are writing for (optional but convenient for us)
-- For example, `This blog is written for the “Developement"` track of CoCode Blogs.
+- For example, `This blog is written for the “DevOps track of CoCode Blogs"`.
 - Do not forget to add the tag `CocodeBlogs` to your blog for it to be considered a valid entry.
 - Lastly, `do not plagiarize`.
 
