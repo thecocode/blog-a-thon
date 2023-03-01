@@ -65,4 +65,18 @@ For March, write a blog, in either or all of the following four tracks namely,
 
 - Ask, any doubt, big or small, on our [**Discord server**](https://discord.gg/WP8BQvrzzc). We will be more than happy to assist you!
 
+## 🏅 Previous Winners
+
+### Jan'23
+- Ayu Adiati
+- Ayush Pawar
+- Nikhil Kadam
+- Siddhesh Bangar
+
+### Feb'23
+- Iqra Firdose
+- Christine Belzie
+- Priyankar Pal
+- Shubh Sharma
+
 ## All the best! Keep writing!
