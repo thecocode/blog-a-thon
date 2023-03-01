@@ -4,17 +4,17 @@
 ## 😃 About
 CoCode has collaborated with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
 
-For February, write a blog, in either or all of the following four tracks namely, 
+For March, write a blog, in either or all of the following four tracks namely, 
 
-- **DevOps**
-- **Operating Systems**
-- **Design**
-- **Database**
+- **Linux**
+- **Development**
+- **DevRel**
+- **Data Structures**
 
 #### And stand a chance to win some cool Hashnode swags!
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/110938199/215875154-555eda38-aae4-4a4d-ba5c-efec44f10626.png" alt="hashnode cocode poster">
+<img src="https://user-images.githubusercontent.com/110938199/222244576-dfc98b04-bcd9-4ecc-a79b-405e4bb2a9e9.png" width=600 height=600 />
 </div>
 
 ## 🤔 How to Participate
@@ -26,11 +26,11 @@ For February, write a blog, in either or all of the following four tracks namely
 
 ### What is it?
 
-- Blog-a-thon is a blogging challenge brought to you by **CoCode** in association with **Hashnode**, a free developer blogging platform. We have 4 tracks for February namely- `DevOps`, `Operating systems`, `Design`, and `Database`. You can write a blog for all or either of them by adding the tag  **`CocodeBlogs`**. At the end of the month, we will announce one winner for each track, therefore, 4 winners in total, who will be rewarded with Hashnode swags and a shoutout from CoCode’s socials.
+- Blog-a-thon is a blogging challenge brought to you by **CoCode** in association with **Hashnode**, a free developer blogging platform. We have 4 tracks for March namely- `Linux`, `Development`, `DevRel`, and `Data Structures`. You can write a blog for all or either of them by adding the tag  **`CocodeBlogs`**. At the end of the month, we will announce one winner for each track, therefore, 4 winners in total, who will be rewarded with Hashnode swags and a shoutout from CoCode’s socials.
 
 ### When does this end?
 
-- The challenge ends on Feb 28, 2023.
+- The challenge ends on March 31, 2023.
 
 ### How to participate?
 
@@ -64,6 +64,5 @@ For February, write a blog, in either or all of the following four tracks namely
 ### Have any more questions?
 
 - Ask, any doubt, big or small, on our [**Discord server**](https://discord.gg/WP8BQvrzzc). We will be more than happy to assist you!
-
 
 ## All the best! Keep writing!
