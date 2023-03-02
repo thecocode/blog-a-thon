@@ -4,7 +4,7 @@
 ## 😃 About
 CoCode has collaborated with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
 
-For March, write a blog, in either or all of the following four tracks namely, 
+For March, write a blog, in one or more of the following four tracks namely, 
 
 - **Linux**
 - **Development**
@@ -61,6 +61,31 @@ For March, write a blog, in either or all of the following four tracks namely,
 - Do not forget to add the tag `CocodeBlogs` to your blog for it to be considered a valid entry.
 - Lastly, `do not plagiarize`.
 
+### What are the criteria that you look at while deciding winners?
+
+When selecting the best blogs, we look at the following criteria:
+- **Interesting introduction**: A captivating introduction that piques the reader's interest and draws them in is essential.
+
+- **Clear explanation**: Your blog's purpose is to explain the chosen topic thoroughly well. Regardless of whether the topic is simple or complex, it's important to present it in a way that is easy for readers to understand.
+
+- **Use of Multimedia**: Incorporating multimedia such as images and videos can provide readers with a broader understanding of the topic. However, be careful not to overload your blog with unnecessary multimedia.
+
+- **Links to external and internal resources**: To aid readers in understanding the topic, consider including links to your own previously written blogs or external resources such as blogs, social media posts, GitHub repositories etc.
+
+- **Concise conclusion**: Summarizing the key points of your blog is crucial. It provides readers with a quick recap of the topic covered.
+
+- **Length of the blog**: While there is no official minimum length for a blog, we recommend having at least 300-400 words. There is no upper limit to how much you can write.
+
+- **Basic grammatical correctness**: You can use free tools like Grammarly to make sure that your blog does not have any grammatical errors.
+
+- **Readability**: The goal is to explain the topic using simple language that is easy for readers to understand.
+
+- **Uniqueness**: While not essential, a unique topic can make your blog stand out from others. In a scenario where two blogs are equally well-executed, the uniqueness of the topic may be a deciding factor.
+
+- **No Plagiarism**: There should be no plagiarism in your blog. Any entry plagiarised above the mark of 20% will be disqualified at once. 
+
+Don't worry if this seems overwhelming at first. Just get started! 
+
 ### Have any more questions?
 
 - Ask, any doubt, big or small, on our [**Discord server**](https://discord.gg/WP8BQvrzzc). We will be more than happy to assist you!
@@ -79,4 +104,4 @@ For March, write a blog, in either or all of the following four tracks namely,
 - Priyankar Pal
 - Shubh Sharma
 
-## All the best! Keep writing!
+## All the best! Keep writing! 🎉
