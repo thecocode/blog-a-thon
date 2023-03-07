@@ -93,15 +93,15 @@ Don't worry if this seems overwhelming at first. Just get started!
 ## 🏅 Previous Winners
 
 ### Jan'23
-- Ayu Adiati
-- Ayush Pawar
-- Nikhil Kadam
-- Siddhesh Bangar
+- [Ayu Adiati](https://adiati.com/)
+- [Ayush Pawar](https://cswithiyush.hashnode.dev/)
+- [Nikhil Kadam](https://nickk2305.hashnode.dev/)
+- [Siddhesh Bangar](https://sidddhesh.hashnode.dev/)
 
 ### Feb'23
-- Iqra Firdose
-- [Christine Belzie](https://chrissycodes.hashnode.dev/devops-secret-sauce-5-uncommon-productivity-tips)
-- Priyankar Pal
-- Shubh Sharma
+- [Iqra Firdose](https://iqra-firdose.hashnode.dev/)
+- [Christine Belzie](https://chrissycodes.hashnode.dev/)
+- [Priyankar Pal](https://itspp.hashnode.dev/)
+- [Shubh Sharma](https://shubhsharma19.hashnode.dev/)
 
 ## All the best! Keep writing! 🎉
