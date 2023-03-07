@@ -100,7 +100,7 @@ Don't worry if this seems overwhelming at first. Just get started!
 
 ### Feb'23
 - Iqra Firdose
-- Christine Belzie
+- [Christine Belzie](https://chrissycodes.hashnode.dev/devops-secret-sauce-5-uncommon-productivity-tips)
 - Priyankar Pal
 - Shubh Sharma
 
