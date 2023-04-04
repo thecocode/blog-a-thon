@@ -4,17 +4,17 @@
 ## 😃 About
 CoCode has collaborated with Hashnode to bring you a monthly blogging challenge: **Blog-a-thon**
 
-For March, write a blog, in one or more of the following four tracks namely, 
+For April, write a blog, in one or more of the following four tracks namely, 
 
-- **Linux**
-- **Development**
-- **DevRel**
-- **Data Structures**
+- **Version Control**
+- **Algorithms**
+- **No-code tools**
+- **25% of 2023**
 
-#### And stand a chance to win some cool Hashnode swags!
+#### And stand a chance to win some cool Hashnode swags! 🎁
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/110938199/222244576-dfc98b04-bcd9-4ecc-a79b-405e4bb2a9e9.png" width=600 height=600 />
+<img src="https://i.ibb.co/DtJP1XQ/Blogathon-April.jpg" alt="Blogathon-April" width = 400 >
 </div>
 
 ## 🤔 How to Participate
@@ -61,6 +61,14 @@ For March, write a blog, in one or more of the following four tracks namely,
 - Do not forget to add the tag `CocodeBlogs` to your blog for it to be considered a valid entry.
 - Lastly, `do not plagiarize`.
 
+### What are the tracks?
+
+<img src="https://i.ibb.co/4NLbM3M/Track-1.jpg" alt="Track-1" border="0" width="400">
+<img src="https://i.ibb.co/SJF3rSx/Track-2.jpg" alt="Track-2" border="0" width="400">
+<img src="https://i.ibb.co/f1npqNn/Track-3.jpg" alt="Track-3" border="0" width="400">
+<img src="https://i.ibb.co/FqsL6KH/Track-4.jpg" alt="Track-4" border="0" width="400">
+
+
 ### What are the criteria that you look at while deciding winners?
 
 When selecting the best blogs, we look at the following criteria:
@@ -103,5 +111,11 @@ Don't worry if this seems overwhelming at first. Just get started!
 - [Christine Belzie](https://chrissycodes.hashnode.dev/)
 - [Priyankar Pal](https://itspp.hashnode.dev/)
 - [Shubh Sharma](https://shubhsharma19.hashnode.dev/)
+
+### Mar'23
+- [Alberto Gonzalez Rosales](https://hashnode.com/@albeXL)
+- [Nikunj Rohit](https://hashnode.com/@rohit105)
+- [Pratik Mali](https://hashnode.com/@PratikMali)
+- [Subham dutta](https://hashnode.com/@sduttt)
 
 ## All the best! Keep writing! 🎉
