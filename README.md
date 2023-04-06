@@ -30,7 +30,7 @@ For April, write a blog, in one or more of the following four tracks namely,
 
 ### When does this end?
 
-- The challenge ends on March 31, 2023.
+- The challenge ends on April 30, 2023.
 
 ### How to participate?
 
